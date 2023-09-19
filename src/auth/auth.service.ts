@@ -17,11 +17,12 @@ export class AuthService {
     const newUser = new this.userModel({
       email: dto.email,
       password: hashedPass,
+      name: dto.name,
     });
     const user = await newUser.save();
-    return this.createToken(user.email);
+    return this.createToken(user.email,user.name);
   }
-  async createToken(email: string) {
-    return this.jwtService.sign({ email });
+  async createToken(email: string, name: string) {
+    return this.jwtService.sign({ email ,name});
   }
 }

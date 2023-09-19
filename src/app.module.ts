@@ -15,7 +15,7 @@ import { AppService } from './app.service';
       'mongodb+srv://ovence29:burak123@reactnative.tjjnygb.mongodb.net/?retryWrites=true&w=majority',
     ),
   ],
-  controllers: [CarController,AppController], // Yeni controller ekleyin
-  providers: [CarService,AppService], // Yeni servis ekleyin
+  controllers: [CarController,AppController], 
+  providers: [CarService,AppService], 
 })
 export class AppModule {}
