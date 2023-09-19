@@ -18,6 +18,20 @@
                 },
                 "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $3,000.",
                 "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 29740,
+                            "Details": "Model 3"
+                        },
+                        {
+                            "Amount": 36740,
+                            "Details": "Model 3 Long Range"
+                        },
+                        {
+                            "Amount": 42740,
+                            "Details": "Model 3 Performance"
+                        }
+                    ],
                     "Paint": [
                         "Midnight Silver Metallic",
                         "Pearl White Multi-Coat",
@@ -28,8 +42,7 @@
                     ],
                     "Wheels": [
                         "18’’ Aero Wheels",
-                        "19’’ Sport Wheels",
-                        "18’’ Aero Wheels"
+                        "19’’ Sport Wheels" 
                     ],
                     "All_SeasonTires": "Range (EPA est.) : 272mi",
                     "Interior": [
@@ -47,7 +60,7 @@
                             "Smart Summon"
                         ],
                         "FullSelf_DrivingCapability": {
-                            "Price": 12000,
+                            "Price": 12001,
                             "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
                             "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
                             "AdditionalFeatures": [
@@ -96,6 +109,16 @@
                 },
                 "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $4,000.",
                 "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 68590,
+                            "Details": "Model X"
+                        },
+                        {
+                            "Amount": 86090,
+                            "Details": "Model X Plaid"
+                        }
+                    ],
                     "Paint": [
                         "Solid Black",
                         "Deep Blue Metallic",
@@ -171,6 +194,16 @@
                 },
                 "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $5,000.",
                 "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 71090,
+                            "Details": "Model S"
+                        },
+                        {
+                            "Amount": 86090,
+                            "Details": "Model S Plaid"
+                        }
+                    ],
                     "Paint": [
                         "Solid Black",
                         "Deep Blue Metallic",
@@ -246,6 +279,16 @@
                 },
                 "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $2,500.",
                 "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 39390,
+                            "Details": "Model Y"
+                        },
+                        {
+                            "Amount": 43390,
+                            "Details": "Model Y Performance"
+                        }
+                    ],
                     "Paint": [
                         "Solid Black",
                         "Deep Blue Metallic",
@@ -321,6 +364,20 @@
                 },
                 "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $3,000.",
                 "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 32540,
+                            "Details": "Model A"
+                        },
+                        {
+                            "Amount": 36740,
+                            "Details": "Model A Long Range"
+                        },
+                        {
+                            "Amount": 52658,
+                            "Details": "Model A Performance"
+                        }
+                    ],
                     "Paint": [
                         "Midnight Silver Metallic",
                         "Pearl White Multi-Coat",
@@ -399,6 +456,16 @@
                 },
                 "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $4,000.",
                 "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 57504,
+                            "Details": "Model B"
+                        },
+                        {
+                            "Amount": 72548,
+                            "Details": "Model B Performance"
+                        }
+                    ],
                     "Paint": [
                         "Solid Black",
                         "Deep Blue Metallic",
@@ -474,6 +541,20 @@
                 },
                 "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $5,000.",
                 "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 65164,
+                            "Details": "Model C"
+                        },
+                        {
+                            "Amount": 75684,
+                            "Details": "Model C Long Range"
+                        },
+                        {
+                            "Amount": 82165,
+                            "Details": "Model C Performance"
+                        }
+                    ],
                     "Paint": [
                         "Solid Black",
                         "Deep Blue Metallic",
@@ -549,6 +630,20 @@
                 },
                 "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $2,500.",
                 "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 29740,
+                            "Details": "Model D"
+                        },
+                        {
+                            "Amount": 36740,
+                            "Details": "Model D Long Range"
+                        },
+                        {
+                            "Amount": 42740,
+                            "Details": "Model D Performance"
+                        }
+                    ],
                     "Paint": [
                         "Solid Black",
                         "Deep Blue Metallic",
