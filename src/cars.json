@@ -32,6 +32,12 @@
                             "Details": "Model 3 Performance"
                         }
                     ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1000,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
                     "Paint": [
                         "Midnight Silver Metallic",
                         "Pearl White Multi-Coat",
@@ -42,13 +48,12 @@
                     ],
                     "Wheels": [
                         "18’’ Aero Wheels",
-                        "19’’ Sport Wheels" 
+                        "19’’ Sport Wheels"
                     ],
                     "All_SeasonTires": "Range (EPA est.) : 272mi",
                     "Interior": [
                         "All Black",
-                        "Black and White",
-                        "All Black"
+                        "Black and White"
                     ],
                     "Autopilot": {
                         "EnhancedAutopilot": 6000,
@@ -117,6 +122,12 @@
                         {
                             "Amount": 86090,
                             "Details": "Model X Plaid"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1200,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
                         }
                     ],
                     "Paint": [
@@ -204,6 +215,12 @@
                             "Details": "Model S Plaid"
                         }
                     ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1300,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
                     "Paint": [
                         "Solid Black",
                         "Deep Blue Metallic",
@@ -287,6 +304,12 @@
                         {
                             "Amount": 43390,
                             "Details": "Model Y Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1250,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
                         }
                     ],
                     "Paint": [
@@ -378,6 +401,12 @@
                             "Details": "Model A Performance"
                         }
                     ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1000,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
                     "Paint": [
                         "Midnight Silver Metallic",
                         "Pearl White Multi-Coat",
@@ -464,6 +493,12 @@
                         {
                             "Amount": 72548,
                             "Details": "Model B Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1500,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
                         }
                     ],
                     "Paint": [
@@ -555,6 +590,12 @@
                             "Details": "Model C Performance"
                         }
                     ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1300,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
                     "Paint": [
                         "Solid Black",
                         "Deep Blue Metallic",
@@ -642,6 +683,12 @@
                         {
                             "Amount": 42740,
                             "Details": "Model D Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1100,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
                         }
                     ],
                     "Paint": [
