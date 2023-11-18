@@ -12,7 +12,7 @@ import { AppService } from './app.service';
   imports: [
     AuthModule,
     MongooseModule.forRoot(
-      'mongodb+srv://ovence29:burak123@reactnative.tjjnygb.mongodb.net/?retryWrites=true&w=majority',
+      'mongodb+srv://:/?retryWrites=true&w=majority',
     ),
   ],
   controllers: [CarController,AppController], 
